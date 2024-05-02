@@ -13,7 +13,7 @@ lement.style {
 }
 a {
     color: #3D5C1F;
-    text-decoration: none;
+    text-decoration: underline;
 }
 user agent stylesheet
 a:-webkit-any-link {
